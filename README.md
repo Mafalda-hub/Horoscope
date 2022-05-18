@@ -207,4 +207,4 @@ export default DailyHoroscope;
 ## FUTURE FEATURES + KEY LEARNINGS
 
 - The idea is to keep working on this project and let the user register and login so that they’ll be able to add their sign to their “favourites page”, allowing them to access it much faster and create better UX.
-- At this stage, We didn't have enough time or knowledge to allow us do exactly what we’d imagined previously and wireframed in excalidraw. It was our first collaborative project so we spent a lot of time trying to figure out branching, pulling, pushing and merging different branches to create a colaborative git workflow.
+- At this stage, we didn't have enough time or knowledge to allow us do exactly what we’d imagined previously and wireframed in excalidraw. It was our first collaborative project so we spent a lot of time trying to figure out branching, pulling, pushing and merging different branches to create a colaborative git workflow.
