@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02cb4475.css",
+    "main.js": "/static/js/main.189247da.js",
+    "static/media/Ana.jpg": "/static/media/Ana.b8068b43990b0ca0ef8e.jpg",
+    "static/media/moon-image.png": "/static/media/moon-image.c2e45d5cdf735796d4ee.png",
+    "static/media/Tom.jpg": "/static/media/Tom.d7568e0c8343d561c425.jpg",
+    "static/media/downwardarrow.png": "/static/media/downwardarrow.6095067c632426e76439.png",
+    "index.html": "/index.html",
+    "main.02cb4475.css.map": "/static/css/main.02cb4475.css.map",
+    "main.189247da.js.map": "/static/js/main.189247da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02cb4475.css",
+    "static/js/main.189247da.js"
+  ]
+}
