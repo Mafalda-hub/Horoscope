@@ -20,7 +20,7 @@ To contribute to this project, [fork the repo](https://github.com/Mafalda-hub/Ho
 
 ## The Brief
 
-For project 2, we were given the challenge of building a React application consuming a 3rd party public API of our choice. We had to create several components and a router. The project was to be completed in pairs to gain experince in pair programming, collaborating with other developers using tools such as `git` and best practices such as `branching, pull requests and code reviews`.
+For project 2, we were given the challenge of building a React application consuming a 3rd party public API of our choice. We had to create several components and a router. The project was to be completed in pairs to gain experience in pair programming, collaborating with other developers using tools such as `git` and best practices such as `branching, pull requests and code reviews`.
 
 ## The Approach Taken
 
@@ -72,7 +72,7 @@ export const loginUser = (user) => {
 <img src="./assets/login.png" width="500px" height="350px"/>
 </div >
 
-- With users now able to create accounts and login to the app, we were able to build the ui to display horroscopes, based on the response from the API. Below is an example of the response data that would be returned from a request for a specific star sign:
+- With users now able to create accounts and login to the app, we were able to build the UI to display horroscopes, based on the response from the API. Below is an example of the response data that would be returned from a request for a specific star sign:
 
 ```json
 {
@@ -87,7 +87,7 @@ export const loginUser = (user) => {
 }
 ```
 
-- Based on this data, we were able to create a react component that would render any star sign:
+- Based on this data, we were able to create a React component that would render any star sign:
 
 <div align="center">
 <img src="./assets/single-sign.png" width="500px" height="350px"/>
@@ -198,11 +198,12 @@ export default DailyHoroscope;
 - Day 3 - Static Pages and Styling
 
   - The third and final day of the build was spent putting together the static <em>Home</em> and <em>About</em> pages.
-  - We also used this time to create the logo for the application and style the pages using custom CSS. We had an option to use a CSS framework such as Bulma, but we made the decision to write the CSS ourselves and take the opportunity to practice styling.
+  - We also used this time to create the logo for the application and style the pages using custom CSS. We had an option to use a CSS framework such as Bulma, but we made the decision to write the CSS ourselves and take the opportunity to practise styling.
 
 ## BUGS, BLOCKERS & WINS
 
-- At this point the register and login page aren't quite working, but after a little investigation this is simply due to not handling the token that is returned from the login. This is something that we will address in an update at a later stage, as it is not a critical bug for the performance or functionality of the application.
+- At this point, the register and login pages aren't quite working, but after a little investigation this is simply due to not handling the token that is returned from the login. This is something that we will address in an update at a later stage, as it is not a critical bug for the performance or functionality of the application.
+- The design was mostly done by Tom whereas I did most of the backend. We then figured that this wasn't a smart choice and should’ve organised ourselves better by using a Trello board instead of communicating only through Zoom calls and Slack.
 
 ## FUTURE FEATURES + KEY LEARNINGS
 
